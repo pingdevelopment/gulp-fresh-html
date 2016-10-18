@@ -1,0 +1,73 @@
+{
+  "name": "gulp-fresh",
+  "version": "0.0.1",
+  "description": "Recursive find and replace",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "homepage": "",
+  "bugs": {
+    "url": ""
+  },
+  "author": {
+    "name": "James Gov",
+    "email": "James.gov@blufish.com",
+    "url": ""
+  },
+  "main": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "scripts": {
+    "pretest": "",
+    "test": ""
+  },
+  "devDependencies": {
+    "gulp": ">=3.0.0",
+    "through2": "^2.0.0"
+  },
+  "dependencies": {
+    "through2": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "concat-stream": "^1.5.1"
+  },
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "gitHead": "",
+  "_id": "",
+  "_shasum": "",
+  "_from": "",
+  "_npmVersion": "",
+  "_npmUser": {
+    "name": "",
+    "email": ""
+  },
+  "maintainers": [
+    {
+      "name": "James",
+      "email": "James.gov@blufish.com"
+    },
+    {
+      "name": "fernando",
+      "email": "fernando@blufish.com"
+    }
+  ],
+  "dist": {
+    "shasum": "",
+    "tarball": ""
+  },
+  "directories": {},
+  "_resolved": "",
+  "readme": "ERROR: No README data found!"
+}
